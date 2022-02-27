@@ -1,0 +1,30 @@
+[
+	{
+		"id":1,
+		"title":"Лаунчер",
+		"image":"https://static5.depositphotos.com/1030015/454/i/600/depositphotos_4543812-stock-photo-online-update.jpg",
+		"url":"None",
+		"clear_text":"Уважаемые игроки рады приветствовать вас в данном лаунчереeee!"
+	},
+	{
+		"id":2,
+		"title":"None",
+		"image":"http:\/\/api-samp.arizona-five.ru\/uploads\/1620571724134.jpg",
+		"url":"None",
+		"clear_text":"None"
+	},
+	{
+		"id":3,
+		"title":"None",
+		"image":"http:\/\/api-samp.arizona-five.ru\/uploads\/1620216079400.jpg",
+		"url":"None",
+		"clear_text":"None"
+	},
+	{
+		"id":4,
+		"title":"None",
+		"image":"http:\/\/api-samp.arizona-five.ru\/uploads\/1618741298015.jpg",
+		"url":"None",
+		"clear_text":"None"
+	}
+]
